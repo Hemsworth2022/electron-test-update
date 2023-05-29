@@ -35,14 +35,6 @@
     ]
   },
   "build": {
-    "mac": {
-      "publish": {
-        "provider": "github",
-        "owner": "Hemsworth2022",
-        "repo": "electron-test-update",
-        "token": "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"
-      }
-    },
     "win": {
       "publish": {
         "provider": "github",
