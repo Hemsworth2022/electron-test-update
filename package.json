@@ -38,18 +38,16 @@
     "mac": {
       "publish": {
         "provider": "github",
-        "owner": "Github Owner",
-        "repo": "Repository Name",
-        "private": true,
+        "owner": "Hemsworth2022",
+        "repo": "electron-test-update",
         "token": "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"
       }
     },
     "win": {
       "publish": {
         "provider": "github",
-        "owner": "Github Owner",
-        "repo": "Repository Name",
-        "private": true,
+        "owner": "Hemsworth2022",
+        "repo": "electron-test-update",
         "token": "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"
       }
     },
@@ -59,8 +57,7 @@
     ],
     "publish": {
       "provider": "github",
-      "private": true,
-      "owner": "Github Owner"
+      "owner": "Hemsworth2022"
     }
   },
   "browserslist": {
